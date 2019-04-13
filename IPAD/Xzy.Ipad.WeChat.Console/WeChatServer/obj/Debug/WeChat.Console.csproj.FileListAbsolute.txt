@@ -1,0 +1,2 @@
+C:\xm\git\Xzy.Mac.WeChat\Mac.WeChat.Console\Demo\obj\Debug\WeChat.Console.csprojAssemblyReference.cache
+C:\xm\git\Xzy.Mac.WeChat\Mac.WeChat.Console\Demo\obj\Debug\WeChat.Console.csproj.CoreCompileInputs.cache

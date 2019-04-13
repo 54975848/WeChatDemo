@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency-mappings>
+  <entry>
+    <new>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WebApi\obj\Release\Dotfuscator\dfout\WebApi.dll</new>
+    <old>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WebApi\obj\Release\WebApi.dll</old>
+  </entry>
+  <entry>
+    <new>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WebApi\obj\Release\Dotfuscator\dfout\WebApi.pdb</new>
+    <old>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WebApi\obj\Release\WebApi.pdb</old>
+  </entry>
+</dependency-mappings>

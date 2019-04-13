@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency-mappings>
+  <entry>
+    <new>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WeChatServer\obj\Release\Dotfuscator\dfout\WeChatServer.exe</new>
+    <old>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WeChatServer\obj\Release\WeChatServer.exe</old>
+  </entry>
+  <entry>
+    <new>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WeChatServer\obj\Release\Dotfuscator\dfout\WebApi.dll</new>
+    <old>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WebApi\bin\Release\WebApi.dll</old>
+  </entry>
+  <entry>
+    <new>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WeChatServer\obj\Release\Dotfuscator\dfout\WeChatServer.pdb</new>
+    <old>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WeChatServer\obj\Release\WeChatServer.pdb</old>
+  </entry>
+  <entry>
+    <new>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WeChatServer\obj\Release\Dotfuscator\dfout\WebApi.pdb</new>
+    <old>C:\xm\git\Xzy.WeChat.IntPtr\IPAD\Xzy.Ipad.WeChat.Console\WebApi\bin\Release\WebApi.pdb</old>
+  </entry>
+</dependency-mappings>

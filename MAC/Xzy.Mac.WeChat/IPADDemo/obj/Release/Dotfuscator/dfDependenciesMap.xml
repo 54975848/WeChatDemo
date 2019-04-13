@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency-mappings>
+  <entry>
+    <new>C:\xm\git\Xzy.WeChat.IntPtr\MAC\Xzy.Mac.WeChat\IPADDemo\obj\Release\Dotfuscator\dfout\MacDemo.exe</new>
+    <old>C:\xm\git\Xzy.WeChat.IntPtr\MAC\Xzy.Mac.WeChat\IPADDemo\obj\Release\MacDemo.exe</old>
+  </entry>
+  <entry>
+    <new>C:\xm\git\Xzy.WeChat.IntPtr\MAC\Xzy.Mac.WeChat\IPADDemo\obj\Release\Dotfuscator\dfout\MacDemo.pdb</new>
+    <old>C:\xm\git\Xzy.WeChat.IntPtr\MAC\Xzy.Mac.WeChat\IPADDemo\obj\Release\MacDemo.pdb</old>
+  </entry>
+</dependency-mappings>
